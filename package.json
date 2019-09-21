@@ -1,0 +1,17 @@
+{
+  "name": "themondays",
+  "version": "0.0.0-dev",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "hundreds node test.js",
+    "pretest": "standard"
+  },
+  "keywords": [],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (https://www.mikealrogers.com/)",
+  "license": "(Apache-2.0 AND MIT)",
+  "devDependencies": {
+    "hundreds": "0.0.2",
+    "standard": "^14.3.1"
+  }
+}
