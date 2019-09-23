@@ -1,5 +1,7 @@
 # the mondays
 
+![1216](https://img.shields.io/badge/compiled%20bundle-1k-brightgreen) ![587](https://img.shields.io/badge/gzipped%20bundle-1k-brightgreen)
+
 A generator that yields every monday from now until a specific cutoff.
 
 ```javascript
